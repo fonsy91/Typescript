@@ -30,6 +30,4 @@ let miVariable = 33;
 let miVariable3: string | number | null; 
 
 //Compilacion y ejecucion: tsc y node <nombre del archivo>
-//Curso: https://www.youtube.com/watch?v=IJ_mpJRaHmc&ab_channel=DominiCode
-//Minuto 1:41:10
 
